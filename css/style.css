@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+.logo img {
+    height: 227px;
+}
+.banner img {
+    border-radius: 5px;
+}
+ul li {
+    list-style: none;
+}
+* {
+    font-family: 'lobster', cursive;
+    font-size: 30px;
+}
+.card img {
+    height: 300px;
+}
+.card {
+    -webkit-box-shadow: 1px -1px 28px 12px rgba(0,0,0,0.5);
+    -moz-box-shadow: 1px -1px 28px 12px rgba(0,0,0,0.5);
+    box-shadow: 1px -1px 28px 12px rgba(0,0,0,0.5);
+}
